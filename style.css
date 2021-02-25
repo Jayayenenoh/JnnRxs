@@ -1,6 +1,13 @@
+@viewport{
+	zoom:1.0;
+	width: extend-to-zoom;
+}
 
-@media only screen and (min-width: 768px){
-	
+@-ms-viewport{
+	width: extend-to-zoom;
+	zoom:1.0;
+}
+
 #div1{
 background-color:#0018F9;
 padding-right: 90px;
@@ -231,4 +238,4 @@ span{
     opacity: 1;
   }
 }
-}
+
