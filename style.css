@@ -1,3 +1,6 @@
+
+@media only screen and (min-width: 768px){
+	
 #div1{
 background-color:#0018F9;
 padding-right: 90px;
@@ -6,6 +9,8 @@ margin-top:-5px;
 text-align: right;
 font-size:12px;
 }
+
+
 
 span{
 	padding-bottom: 1px;
@@ -225,4 +230,5 @@ span{
             transform: none;
     opacity: 1;
   }
+}
 }
