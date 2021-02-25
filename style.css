@@ -17,8 +17,6 @@ text-align: right;
 font-size:12px;
 }
 
-
-
 span{
 	padding-bottom: 1px;
 	padding-top: 2px;
@@ -224,6 +222,7 @@ span{
             transform: none;
     opacity: 1;
   }
+}
 
 @keyframes sbx-reset-in {
   0% {
@@ -237,4 +236,3 @@ span{
     opacity: 1;
   }
 }
-
